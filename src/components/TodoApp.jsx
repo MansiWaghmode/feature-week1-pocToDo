@@ -9,7 +9,7 @@ export default function TodoApp(){
   });
 
   useEffect(() => {
-    console.log("TodoApp component Loaded");
+    console.log("TodoApp component Loaded successfully");
   }, []);
 
   useEffect(() => {
